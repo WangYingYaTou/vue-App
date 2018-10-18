@@ -1,2 +1,1 @@
-##vue.js 仿饿了么APP
-#主页页面：
+#主页页面：<br>https://github.com/WangYingYaTou/Vue-App/blob/master/src/assets/images/index.png

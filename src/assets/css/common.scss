@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+//reset样式
+@import "_reset";
+
+// mixin
+@import "_mixin";
+
+//iconfont样式
+@import "_iconfont";
+
+//头部
+@import "_header";
+
+//index样式
+@import "_index";
+
+//评分
+@import "_star";
+
+//商品
+@import "_goods";
+
+//购物车
+@import "_shopcart";
+
+//购物车控制
+@import "_cartcontrol";
+
+//详情
+@import "_food";
+
+//分隔
+@import "_split";
+
+//评论选择
+@import "_ratingselect";
+
+//评论
+@import "_ratings";
+
+//商家
+@import "_seller";
+

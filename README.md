@@ -44,14 +44,15 @@
         </div>
       <div>
  style的样式 
-       .wrapper {
-          min-height:100vh;
-          display:flex;
-          flex-direction:column;
-       }
-       .content {
-           flex:1;
-       }
-       .footer {
-          flex:0;
-        }
+        
+        .wrapper {
+            min-height:100vh;
+            display:flex;
+            flex-direction:column;
+         }
+         .content {
+             flex:1;
+         }
+         .footer {
+            flex:0;
+          }

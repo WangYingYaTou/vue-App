@@ -8,4 +8,12 @@ vue-router&nbsp;&nbsp;前段实行spa单页面应用<br>
 Eslint&nbsp;&nbsp;es6代码风格检查工具<br>
 vue-cli&nbsp;&nbsp;写好vue.js代码的工具<br>
 ### spa单页面应用
-核心：数据驱动、组件化（就近维护）
+核心：数据驱动、组件化（就近维护）<br>
+### css &nbsp;strikyfooter布局
+  <div class="wripper clearfix">
+    <div class="content">这里是内容
+    </div>
+  <div>
+  <div class="footer">
+  </div>
+  
